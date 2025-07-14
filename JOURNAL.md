@@ -72,3 +72,14 @@ i exported all the neccisarry files from easy eda and put them into jlc pcb, i t
 <img width="1417" height="797" alt="image" src="https://github.com/user-attachments/assets/e96ea2c7-2c8b-4b6f-a704-89b8d127bb1e" />
 
 Total time spent: 2h.
+
+
+# July 14th: submiting now.
+i had issues with the other grant that i was going to use. then i stumbled apon this grant! thanks!
+i still had everything saved on my easy eda so i could still submit this.
+
+
+<img width="223" height="160" alt="image" src="https://github.com/user-attachments/assets/6b6b13a7-0c5e-4291-988c-cee75d66f9ec" />
+
+
+Total time spent: 2h.
