@@ -11,10 +11,14 @@ component selection during Thursday's workshop.) Finalized the PCB outline and b
 
 
 <img width="382" height="420" alt="Image" src="https://github.com/user-attachments/assets/83e94d0c-4f95-4f26-81d6-124b1466fdac" />
+
+
 <img width="511" height="300" alt="Image" src="https://github.com/user-attachments/assets/0d31c393-585d-4c33-bd23-09e59c081cad" />
 
 Total time spent: 1h.
-# may 15th: started the project! 
+
+
+# may 15th: loocked for fonts and started on pictures.
 added styling to the project. i looked arount for some fonts and ended up on ibm font (men in blue)
 
 
@@ -25,4 +29,22 @@ Total time spent: 1h.
 
 
 <img width="1873" height="897" alt="Image" src="https://github.com/user-attachments/assets/99541c56-1e86-4cd1-88c7-6ea405f567b6" />
+
+i then downloaded a easy eda svg image importer to make importing my svg pictures mutch easyer.
+
+<img width="1130" height="862" alt="Image" src="https://github.com/user-attachments/assets/0b45fa48-fd46-4530-8870-d52e132cd7d9" />
+
+# may 22th: added pictures and went through.
+i loocked around for pictrures that represent me. i then converted them to a svg format.
+
+
+<img width="1854" height="911" alt="image" src="https://github.com/user-attachments/assets/1a22a1c3-92ea-4d9b-b156-6db81320ab31" />
+
+
+here i added the pictures to the board. i picked canada because i live there. and my name, because, well its my name.
+
+
+<img width="510" height="292" alt="image" src="https://github.com/user-attachments/assets/604de848-eb26-4365-921c-5067a322bc6a" />
+
+Total time spent: 1h.
 
