@@ -48,3 +48,18 @@ here i added the pictures to the board. i picked canada because i live there. an
 
 Total time spent: 1h.
 
+
+# may 29th: added colour and secound led.
+i spent a bit of time changing the colours and updating the schematic to have 2 leds instead of only one. customizing this to be my very own.
+i also made it so that the solder mask layer would come through and make my pictures stand out.
+front side--->
+
+
+<img width="1082" height="776" alt="image" src="https://github.com/user-attachments/assets/d64145a8-1b11-45ea-abf3-f7965b415489" />
+
+back side --->
+
+<img width="959" height="822" alt="image" src="https://github.com/user-attachments/assets/bda1a5dc-0dfd-450a-9cd5-e6a2aa0fee4e" />
+
+
+Total time spent : 30 min.
