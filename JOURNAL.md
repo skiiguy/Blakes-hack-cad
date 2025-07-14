@@ -20,7 +20,7 @@ Noticed an incorrect resistor selection, so I updated the schematic and rewired 
 component selection during Thursday's workshop.) Finalized the PCB outline and began organizing component placement on the board.
 
 
-<img width="382" height="420" alt="Image" src="https://github.com/user-attachments/assets/83e94d0c-4f95-4f26-81d6-124b1466fdac" />
+<img width="511" height="300" alt="Image" src="https://github.com/user-attachments/assets/74994118-ba12-4b86-9656-8c95768a9227" />
 
 
 Total time spent: 1h.
