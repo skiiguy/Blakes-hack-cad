@@ -51,12 +51,24 @@ i spent a bit of time changing the colours and updating the schematic to have 2 
 i also made it so that the solder mask layer would come through and make my pictures stand out.
 front side--->
 
-
 <img width="1082" height="776" alt="image" src="https://github.com/user-attachments/assets/d64145a8-1b11-45ea-abf3-f7965b415489" />
 
 back side --->
 
 <img width="959" height="822" alt="image" src="https://github.com/user-attachments/assets/bda1a5dc-0dfd-450a-9cd5-e6a2aa0fee4e" />
 
-
 Total time spent : 30 min.
+# june 6th: whent through the proccess of ordering.
+i exported all the neccisarry files from easy eda and put them into jlc pcb, i then proceded to go through the ordering proccess.
+
+<img width="468" height="944" alt="image" src="https://github.com/user-attachments/assets/b9989f32-5910-4dee-9ba3-c794067c90c6" />
+
+
+<img width="1426" height="781" alt="image" src="https://github.com/user-attachments/assets/809e8448-e4a3-4c64-94fe-42c12a6f7e77" />
+
+
+<img width="1439" height="757" alt="image" src="https://github.com/user-attachments/assets/cd98ed5b-7049-4e7f-a9bf-9781694ba317" />
+
+<img width="1417" height="797" alt="image" src="https://github.com/user-attachments/assets/e96ea2c7-2c8b-4b6f-a704-89b8d127bb1e" />
+
+Total time spent: 2h.
