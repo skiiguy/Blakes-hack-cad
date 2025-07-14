@@ -14,14 +14,15 @@ component selection during Thursday's workshop.) Finalized the PCB outline and b
 <img width="511" height="300" alt="Image" src="https://github.com/user-attachments/assets/0d31c393-585d-4c33-bd23-09e59c081cad" />
 
 Total time spent: 1h.
-# may 8th: started the project! 
-Created the project and populated the schematic with all necessary components, wiring them accordingly. After completing the schematic, converted it into a PCB layout.
-Noticed an incorrect resistor selection, so I updated the schematic and rewired the resistor appropriately. (Made a mental note to highlight the importance of careful
-component selection during Thursday's workshop.) Finalized the PCB outline and began organizing component placement on the board.
+# may 15th: started the project! 
+added styling to the project. i looked arount for some fonts and ended up on ibm font (men in blue)
 
 
 <img width="511" height="300" alt="Image" src="https://github.com/user-attachments/assets/74994118-ba12-4b86-9656-8c95768a9227" />
 
-
+i then downloaded a svg importer to easy eda, this helped a lot because it let me customize my hack card much more.
 Total time spent: 1h.
+
+
+<img width="1873" height="897" alt="Image" src="https://github.com/user-attachments/assets/99541c56-1e86-4cd1-88c7-6ea405f567b6" />
 
