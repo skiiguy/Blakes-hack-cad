@@ -23,13 +23,11 @@ Total time spent: 1h.
 added styling to the project. i looked arount for some fonts and ended up on ibm font (men in blue)
 
 
+<img width="1873" height="897" alt="Image" src="https://github.com/user-attachments/assets/99541c56-1e86-4cd1-88c7-6ea405f567b6" />
+
 i then downloaded a svg importer to easy eda, this helped a lot because it let me customize my hack card much more.
 Total time spent: 1h.
 
-
-<img width="1873" height="897" alt="Image" src="https://github.com/user-attachments/assets/99541c56-1e86-4cd1-88c7-6ea405f567b6" />
-
-i then downloaded a easy eda svg image importer to make importing my svg pictures mutch easyer.
 
 <img width="1130" height="862" alt="Image" src="https://github.com/user-attachments/assets/0b45fa48-fd46-4530-8870-d52e132cd7d9" />
 
