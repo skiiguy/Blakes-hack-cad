@@ -10,6 +10,9 @@ Noticed an incorrect resistor selection, so I updated the schematic and rewired 
 component selection during Thursday's workshop.) Finalized the PCB outline and began organizing component placement on the board.
 
 
+<img width="382" height="420" alt="Screenshot_20250714_133932-1" src="https://github.com/user-attachments/assets/c17b653c-3320-4639-91c7-9ff4b5ab58a4" />
+
+
 
 <img width="511" height="300" alt="Image" src="https://github.com/user-attachments/assets/0d31c393-585d-4c33-bd23-09e59c081cad" />
 
